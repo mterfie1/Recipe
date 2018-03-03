@@ -1,0 +1,151 @@
+
+body {
+	
+	background-color: #FFCC00;
+
+}
+.program1{
+	background: linear-gradient(to right, #ff4e50, #f9d423);  
+}
+
+.recipe2{
+ 	background: linear-gradient(to left, #70e1f5, #ffd194);
+}
+
+.hyper-link{
+	color: #003366;
+}
+
+.border1{
+	background-color: #F0F0F0;
+	width: auto;
+	margin: 20px auto;
+}
+
+.header1{
+	
+	text-align: center;
+	font-family: "Verdana";
+	color: #A4A400;
+}
+.prep-cook-text{
+	font-weight: bold;
+}
+.in-depth-text{
+	font-weight: bold;
+}
+.text-heading{
+	font-weight: bold;
+	font-size: 23px;
+}
+.ingredients-list{
+	font-weight: bold;
+	font-size: large;
+}
+.ingredients-list > li span{
+	font-size: medium;
+	font-weight: normal;
+}
+table{
+	background-color: #F0F0F0;
+}
+table caption{
+	text-align: center;
+	font-family: "Verdana";
+	color: #A4A400;
+	background-color: #F0F0F0;
+	width: auto;
+	font-weight: bold;
+}
+table th{
+	background-color: #003366;
+	color: white;
+}
+table .table-col-1{
+	text-align: center;
+	background-color: #003366;
+	color: white;
+	font-weight: bold;
+}
+table th,td{
+	padding: 5px;
+	background-color: #CC9933;
+	color: white;
+}
+.tables-margin{
+	margin-top: 20px;
+}
+.menu{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	margin-left: 60px;
+}
+.menu > li {
+	float: left;
+	background-color: #003366;
+	padding-right: 20px;
+	margin-right: 10px;
+}
+.menu > li  a{
+	display: block;
+	color: #003366;
+	text-align: center;
+	padding: 8px 16px;
+	text-decoration: none;
+	background-color: #E4E495;
+	font-weight: bold;
+}
+
+
+.img-div{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.img-div > div{
+	width:29.33%;
+	float: left;
+	height: 250px;
+	padding: 1% 2% 1% 2%;
+}
+.fix{
+	clear: both;
+}
+.boxes{
+	width: 100%;
+}
+.boxes > div{
+	width: 29.33%;
+	margin: 1% 2% 1% 2%;
+	background-color: #F0F0F0;
+	float: left;
+}
+.boxes > div > h1{
+	text-align: center;
+	border-bottom: 1px solid black;
+	color: #A4A400;
+}
+.boxes > div > .question{
+	font-weight: bold;
+	font-size: 16px;
+}
+.boxes > div > p{
+	text-align: justify;
+	padding: 0 15px 0 15px;
+}
+
+.recipe2-text-heading{
+	background-color: #F0F0F0;
+	text-align: left;
+	font-family: "Verdana";
+	color: #A4A400;
+	font-size: 23px;
+}
+.pie-order-list > li > span{
+	font-weight: bold;
+}
+.little-bold{
+	font-weight: bold;
+	font-size: 18px;
+}
